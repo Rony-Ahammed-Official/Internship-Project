@@ -1,0 +1,36 @@
+{
+  "subscribers": [
+    {
+      "type": "Other",
+      "name": "XYZ",
+      "ageGroup": "30-40",
+      "gender": "male",
+      "contactNumber": "1234567890",
+      "email": "johndoe@example.com",
+      "zone": "A",
+      "area": "B",
+      "detailsAddress": "123 Main St",
+      "recyclableWasteFrequency": "Weekly",
+      "participateEvents": "yes",
+      "estimatedQuantity": "2",
+      "businessCollection": "no",
+      "id": 2
+    },
+    {
+      "type": "household_individual",
+      "name": "Check",
+      "ageGroup": "10-20",
+      "gender": "other",
+      "contactNumber": "025613",
+      "email": "check@gmail.com",
+      "zone": "a",
+      "area": "b",
+      "detailsAddress": "sweet home",
+      "recyclableWasteFrequency": "daily",
+      "participateEvents": "no",
+      "estimatedQuantity": "10",
+      "businessCollection": "yes",
+      "id": 3
+    }
+  ]
+}

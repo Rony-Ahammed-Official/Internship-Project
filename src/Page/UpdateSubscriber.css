@@ -1,0 +1,40 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding-left: 500px;
+  padding-top: 650px;
+}
+
+.form-container {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.2);
+  width: 800px;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.form-heading {
+  margin-bottom: 20px;
+}
+
+.input-field {
+  margin-bottom: 15px;
+  border: none !important;
+}
+
+.submit-btn {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+}
+
+.submit-btn-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
